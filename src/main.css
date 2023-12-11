@@ -142,6 +142,7 @@ html, body {
 
 .invalid-feedback{
     color: #ff606e;
+    display: none;
 }
 
 .valid-feedback{
